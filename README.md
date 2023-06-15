@@ -1,1 +1,5 @@
-# calories-burnt-prediction
+Regular physical activities are essential to staying healthy and fit. The estimation of calories burned by individuals is calculated in this model. This study aims to predict the calories burned using a regression model as one of the machine learning algorithms to give more accurate results. 
+Data preparation, cleaning, and analysis are the primary steps before they can be fed to the regression models. Model training and testing using K-fold validation were done to determine the best model for the study. 
+The performance and prediction accuracy of regression models were evaluated based on the result of model testing after ten (10) iterations. The average accuracy was computed and the result shows that Random Forest regression is the best model for the study with an accuracy of 95.77%.
+It is very important to visualize and study the relationships of the variables in the data because it may affect the performance of the algorithm in predicting the value of the target variable. The Random Forest regression model was able to predict the calories burned with a high accuracy rate.
+This includes the deployment of the code for user purpose.
